@@ -1,0 +1,12 @@
+specs/
+postman/
+node_modules/
+
+.env*
+*.md
+
+# others
+gen-token.js
+test*.js
+
+!README.md
